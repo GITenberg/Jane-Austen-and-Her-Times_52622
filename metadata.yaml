@@ -1,0 +1,28 @@
+_repo: Jane-Austen-and-Her-Times_52622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2016-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52622'
+  lccn: '06002322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austen, Jane, 1775-1817'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: Jane Austen and Her Times
+url: http://www.gutenberg.org/ebooks/52622
